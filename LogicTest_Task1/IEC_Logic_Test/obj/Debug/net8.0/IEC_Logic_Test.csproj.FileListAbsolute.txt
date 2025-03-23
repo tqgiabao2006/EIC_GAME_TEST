@@ -1,0 +1,15 @@
+C:\Users\Silent B\RiderProjects\IEC_Logic_Test\IEC_Logic_Test\bin\Debug\net8.0\IEC_Logic_Test.exe
+C:\Users\Silent B\RiderProjects\IEC_Logic_Test\IEC_Logic_Test\bin\Debug\net8.0\IEC_Logic_Test.deps.json
+C:\Users\Silent B\RiderProjects\IEC_Logic_Test\IEC_Logic_Test\bin\Debug\net8.0\IEC_Logic_Test.runtimeconfig.json
+C:\Users\Silent B\RiderProjects\IEC_Logic_Test\IEC_Logic_Test\bin\Debug\net8.0\IEC_Logic_Test.dll
+C:\Users\Silent B\RiderProjects\IEC_Logic_Test\IEC_Logic_Test\bin\Debug\net8.0\IEC_Logic_Test.pdb
+C:\Users\Silent B\RiderProjects\IEC_Logic_Test\IEC_Logic_Test\obj\Debug\net8.0\IEC_Logic_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silent B\RiderProjects\IEC_Logic_Test\IEC_Logic_Test\obj\Debug\net8.0\IEC_Logic_Test.AssemblyInfoInputs.cache
+C:\Users\Silent B\RiderProjects\IEC_Logic_Test\IEC_Logic_Test\obj\Debug\net8.0\IEC_Logic_Test.AssemblyInfo.cs
+C:\Users\Silent B\RiderProjects\IEC_Logic_Test\IEC_Logic_Test\obj\Debug\net8.0\IEC_Logic_Test.csproj.CoreCompileInputs.cache
+C:\Users\Silent B\RiderProjects\IEC_Logic_Test\IEC_Logic_Test\obj\Debug\net8.0\IEC_Logic_Test.sourcelink.json
+C:\Users\Silent B\RiderProjects\IEC_Logic_Test\IEC_Logic_Test\obj\Debug\net8.0\IEC_Logic_Test.dll
+C:\Users\Silent B\RiderProjects\IEC_Logic_Test\IEC_Logic_Test\obj\Debug\net8.0\refint\IEC_Logic_Test.dll
+C:\Users\Silent B\RiderProjects\IEC_Logic_Test\IEC_Logic_Test\obj\Debug\net8.0\IEC_Logic_Test.pdb
+C:\Users\Silent B\RiderProjects\IEC_Logic_Test\IEC_Logic_Test\obj\Debug\net8.0\IEC_Logic_Test.genruntimeconfig.cache
+C:\Users\Silent B\RiderProjects\IEC_Logic_Test\IEC_Logic_Test\obj\Debug\net8.0\ref\IEC_Logic_Test.dll
