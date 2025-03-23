@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Logic Test
+## 🧠 Logic Test: 100%
 **All tasks for the Logic Test have been successfully completed!** 🎉
 
 ### 📌 Completed Tasks:
@@ -241,7 +241,7 @@ public int Solution(int[][] A)
 
 ---
 
-## 🎮 Unity Test
+## 🎮 Unity Test: 100%
 **All tasks for the Unity Test have been successfully completed!** 🚀
 
 ### 📌 Completed Tasks:
