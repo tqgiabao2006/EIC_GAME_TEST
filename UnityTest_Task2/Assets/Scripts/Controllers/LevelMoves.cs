@@ -23,7 +23,6 @@ public class LevelMoves : LevelCondition
 
     private void Update()
     {
-        Debug.Log("OnMove");
         if (m_playerBoard.g_curBoardCount == 0)
         {
             OnWinConditionComplete();
